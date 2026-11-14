@@ -1,0 +1,32 @@
+{
+ "agentk": {
+  "ver": "28b8d631afed",
+  "file": "agentk-28b8d631afed.bin",
+  "kb": 475,
+  "at": "2026-11-14T09:39:52-0500"
+ },
+ "lmcc": {
+  "ver": "4cf0d88f8ff1",
+  "file": "lmcc-4cf0d88f8ff1.bin",
+  "kb": 4092,
+  "at": "2026-11-14T07:09:38-0500"
+ },
+ "art": {
+  "ver": "31e128526ff4",
+  "file": "art-31e128526ff4.bin",
+  "kb": 243,
+  "at": "2026-11-14T09:35:28-0500"
+ },
+ "agentk_assets": {
+  "ver": "13d3811305b9",
+  "file": "agentk_assets-13d3811305b9.bin",
+  "kb": 1917,
+  "at": "2026-11-13T15:21:31-0500"
+ },
+ "agentk_replies": {
+  "ver": "a86a4e59f3b9",
+  "file": "agentk_replies-a86a4e59f3b9.bin",
+  "kb": 1,
+  "at": "2026-11-14T02:37:58-0500"
+ }
+}
