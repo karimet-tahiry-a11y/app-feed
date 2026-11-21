@@ -1,0 +1,74 @@
+{
+ "agentk": {
+  "ver": "42479a301985",
+  "file": "agentk-42479a301985.bin",
+  "kb": 410,
+  "at": "2026-11-21T11:44:24-0500"
+ },
+ "lmcc": {
+  "ver": "5173abaa5738",
+  "file": "lmcc-5173abaa5738.bin",
+  "kb": 5370,
+  "at": "2026-11-19T21:54:40-0500"
+ },
+ "art": {
+  "ver": "c5ec42d0002b",
+  "file": "art-c5ec42d0002b.bin",
+  "kb": 165,
+  "at": "2026-11-21T04:31:13-0500"
+ },
+ "agentk_assets": {
+  "ver": "46900bec4c83",
+  "file": "agentk_assets-46900bec4c83.bin",
+  "kb": 2191,
+  "at": "2026-11-16T07:56:20-0500"
+ },
+ "agentk_replies": {
+  "ver": "861c1073d9ab",
+  "file": "agentk_replies-861c1073d9ab.bin",
+  "kb": 1,
+  "at": "2026-11-17T09:30:14-0500"
+ },
+ "cpa": {
+  "ver": "e172cf78cb9d",
+  "file": "cpa-e172cf78cb9d.bin",
+  "kb": 833,
+  "at": "2026-11-17T15:18:47-0500"
+ },
+ "agentk_lz_decks": {
+  "ver": "a1b9c12a646d",
+  "file": "agentk_lz_decks-a1b9c12a646d.bin",
+  "kb": 23,
+  "at": "2026-11-21T11:44:25-0500"
+ },
+ "agentk_lz_comms": {
+  "ver": "e6f714cc92d8",
+  "file": "agentk_lz_comms-e6f714cc92d8.bin",
+  "kb": 27,
+  "at": "2026-11-21T10:42:41-0500"
+ },
+ "agentk_lz_diary": {
+  "ver": "98c0e11ec7a9",
+  "file": "agentk_lz_diary-98c0e11ec7a9.bin",
+  "kb": 43,
+  "at": "2026-11-21T03:36:21-0500"
+ },
+ "agentk_lz_places": {
+  "ver": "da2bc5d77865",
+  "file": "agentk_lz_places-da2bc5d77865.bin",
+  "kb": 58,
+  "at": "2026-11-21T11:44:25-0500"
+ },
+ "agentk_lz_timeline": {
+  "ver": "14a0db375047",
+  "file": "agentk_lz_timeline-14a0db375047.bin",
+  "kb": 1,
+  "at": "2026-11-21T10:42:41-0500"
+ },
+ "agentk_lz_watch": {
+  "ver": "ac98fc7cd990",
+  "file": "agentk_lz_watch-ac98fc7cd990.bin",
+  "kb": 2,
+  "at": "2026-11-17T10:38:41-0500"
+ }
+}
