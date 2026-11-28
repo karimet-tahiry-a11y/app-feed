@@ -1,0 +1,81 @@
+{
+ "ver": "806fffaab2",
+ "built": "Saturday November 21 2026 21:00 Toronto",
+ "mb": 33.2,
+ "files": [
+  {
+   "p": "fonts/Noto Sans Italic/0-255.pbf",
+   "b": 79344
+  },
+  {
+   "p": "fonts/Noto Sans Italic/256-511.pbf",
+   "b": 132976
+  },
+  {
+   "p": "fonts/Noto Sans Italic/8192-8447.pbf",
+   "b": 52891
+  },
+  {
+   "p": "fonts/Noto Sans Medium/0-255.pbf",
+   "b": 77628
+  },
+  {
+   "p": "fonts/Noto Sans Medium/256-511.pbf",
+   "b": 129635
+  },
+  {
+   "p": "fonts/Noto Sans Medium/8192-8447.pbf",
+   "b": 65101
+  },
+  {
+   "p": "fonts/Noto Sans Regular/0-255.pbf",
+   "b": 76044
+  },
+  {
+   "p": "fonts/Noto Sans Regular/256-511.pbf",
+   "b": 127726
+  },
+  {
+   "p": "fonts/Noto Sans Regular/8192-8447.pbf",
+   "b": 64220
+  },
+  {
+   "p": "home_ontario.pmtiles",
+   "b": 32941711
+  },
+  {
+   "p": "maplibre-gl.css",
+   "b": 65534
+  },
+  {
+   "p": "maplibre-gl.js",
+   "b": 803086
+  },
+  {
+   "p": "pmtiles.js",
+   "b": 51739
+  },
+  {
+   "p": "sprites/light.json",
+   "b": 3549
+  },
+  {
+   "p": "sprites/light.png",
+   "b": 16174
+  },
+  {
+   "p": "sprites/light@2x.json",
+   "b": 3579
+  },
+  {
+   "p": "sprites/light@2x.png",
+   "b": 28852
+  },
+  {
+   "p": "style_layers.json",
+   "b": 63810
+  }
+ ],
+ "data": "Protomaps basemap build 20261121 (OpenStreetMap, ODbL), extract bbox -80.05,42.95,-79.00,43.72, zoom 0 to 14",
+ "libs": "maplibre-gl 4.7.1 (BSD-3), pmtiles 3.2.1 (BSD-3), @protomaps/basemaps 5.1.0 light layers, Protomaps basemaps-assets fonts and sprites v4"
+}
